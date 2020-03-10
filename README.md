@@ -4,15 +4,17 @@ The tool was developed in ArcGIS 10.7 and requires the Spatial Analyst extension
 Preparing ArcMap for EIA Toolbox Use
 
 1.	File structure
-  a.	Create a new folder to house inputs and outputs
-  b.	Create a new file geodatabase to hold input data (‘In.gbd’)
-  c.	Create a new file geodatabase to hold output data (‘Out.gbd’)
+  
+    a.	Create a new folder to house inputs and outputs
+    b.	Create a new file geodatabase to hold input data (‘In.gbd’)
+    c.	Create a new file geodatabase to hold output data (‘Out.gbd’)
+  
 2.	Set default workspace
-  a.	Geoprocessing -> EnvironmentsWorkspace
-  b.	Set Current Workspace to your ‘Out.gbd’ path
+    a.	Geoprocessing -> EnvironmentsWorkspace
+    b.	Set Current Workspace to your ‘Out.gbd’ path
 3.	Pathnames
-  a.	File -> Map Document Properties 
-  b.	Select ‘store relative pathnames to data sources’
+    a.	File -> Map Document Properties 
+    b.	Select ‘store relative pathnames to data sources’
 
 Using the EIA toolbox
 
