@@ -23,7 +23,7 @@ This code documents the process used to develop the HCIA ArcGIS tool. The tool w
     b.	Select ‘store relative pathnames to data sources’
 
 
-**The following input data are required for using the DCIA toolbox:**
+**The following input data are required for using the HCIA toolbox:**
 
 1.	Digital elevation model (DEM) - 	Raster - Sufficient resolution for urban areas (<= 1 m recommended)
 
