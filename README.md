@@ -37,4 +37,4 @@ Limitations
 
 The HCIA ArcGIS tool was developed for a finite number of scenarios. These parameters for which the HIA ArcGIS tool is accurate are summarized in model documentation.
 
-For additional background on the develpment of the ArcGIS tool, see model documentation here.
+For additional background on the develpment of the ArcGIS tool, see model documentation here: 
