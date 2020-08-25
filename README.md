@@ -28,6 +28,12 @@ The HCIA Toolbox was developed in ArcGIS 10.7 and requires the Spatial Analyst e
     
     b.	Select ‘store relative pathnames to data sources’
 
+4.	Toolbox location
+
+    a.	Download toolbox and place in local folder (C:/ drive)
+    
+    b.	Open ArcToolbox --> Add toolbox --> Select 'Hydrologically Connected Impervious Areas ArcGIS toolbox' from local folder
+	
 
 ## Input requirements
 
